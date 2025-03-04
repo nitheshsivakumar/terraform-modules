@@ -81,11 +81,3 @@ This project involves deploying the **RentZone car rental application** on **AWS
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
-## 👤 Author
-**Nithesh Sivakumar**  
-📧 [Your Email]  
-🔗 [GitHub Profile](https://github.com/yourusername)
-
