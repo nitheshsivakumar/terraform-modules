@@ -1,4 +1,4 @@
-# 🚗 Automate Dynamic Web App Deployment with Terraform, Docker, Amazon ECR, and ECS
+# Automate Dynamic Web App Deployment with Terraform, Docker, Amazon ECR, and ECS
 
 ## 📌 Project Overview
 
@@ -29,7 +29,6 @@ This project involves deploying the **RentZone car rental application** on **AWS
 - **Amazon Route 53** - Managing domain and DNS resolution.
 - **AWS Certificate Manager (ACM)** - Enabling HTTPS encryption.
 - **IAM Roles & Policies** - Managing permissions for security.
-- **Amazon CloudWatch** - Monitoring and logging.
 
 📌 **Reference Architecture:**  
 ![Architecture](RentZone-Terraform-Modules.jpg)
